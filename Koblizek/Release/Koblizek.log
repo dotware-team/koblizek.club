@@ -1,0 +1,46 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+  ESP.cpp
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+  EventListener.cpp
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+  trail.cpp
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+  VelGraph.cpp
+  Hooking.cpp
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+  notifications.cpp
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+  Aimbot.cpp
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+  Backtrack.cpp
+  Chams.cpp
+  EnginePrediction.cpp
+  Glow.cpp
+  SkinChanger.cpp
+  Triggerbot.cpp
+  Visuals.cpp
+  Netvars.cpp
+  render.cpp
+  kit_parser.cpp
+  nskinz.cpp
+  Stuff.cpp
+  Menu.cpp
+  Misc.cpp
+  Interfaces.cpp
+  Memory.cpp
+  GlobalVars.cpp
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+  buffer.c
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Koblizek.vcxproj -> C:\Users\rootp\Desktop\reloc\Koblizek.club Source Cheat\Koblizek\..\build_bin\cheat_build.dll
